@@ -11,6 +11,6 @@ interface ObjectInterface {
 }
 
 let object: ObjectInterface = {
-  name: 'ham-san',
+  name: 'Ham-san',
   age: 43,
 };
